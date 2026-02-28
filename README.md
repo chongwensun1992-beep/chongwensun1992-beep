@@ -6,7 +6,7 @@ Data Scientist | AI Engineer | Industrial AI & Medical AI
 
 ## 🧠 About Me
 
-- 🎓 Master of Data Science candidate at UBC Okanagan (Class of 2026)
+- 🎓 Master of Data Science candidate at UBC 
 - 🏭 6+ years of industry experience across IBM, BMW, and enterprise AI systems
 - 🔬 Focused on applied machine learning, multimodal modeling, and AI system deployment
 - 📊 Interested in model robustness, fairness, and real-world AI integration

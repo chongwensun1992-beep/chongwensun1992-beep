@@ -4,40 +4,43 @@ Data Scientist | AI Engineer | Industrial AI & Medical AI
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 🎓 Master of Data Science candidate at UBC 
-- 🏭 6+ years of industry experience in enterprise AI systems and digital transformation
-- 🧠 Focused on machine learning, multimodal modeling, and applied AI in healthcare & industrial systems
-- 📊 Interested in model robustness, fairness, and real-world deployment
-
----
-
-## 🔬 Selected Work
-
-- 🧬 Breast Cancer Risk Prediction (Mirai external validation, survival modeling, fairness analysis)
-- 📈 Bank Marketing Targeting Optimization (classification & ranking models)
-- 🤖 Industrial AI Platform Development (AI product architecture & deployment)
-- 📊 Diagnostic Benchmarking of Multimodal Generative Models
+- 🎓 Master of Data Science candidate at UBC Okanagan (Class of 2026)
+- 🏭 6+ years of industry experience across IBM, BMW, and enterprise AI systems
+- 🔬 Focused on applied machine learning, multimodal modeling, and AI system deployment
+- 📊 Interested in model robustness, fairness, and real-world AI integration
 
 ---
 
-## 🛠 Technical Skills
+## 🚀 Selected Work
+
+### 🏭 Industrial AI
+- AI platform architecture for intelligent manufacturing systems
+- Enterprise data engineering & AI infrastructure support
+
+### 📈 Applied ML
+- Bank marketing targeting (classification & ranking optimization)
+- Multimodal benchmarking of generative models
+
+---
+
+## 🛠 Technical Stack
 
 **Languages:** Python, R, SQL  
-**ML/DL:** Scikit-learn, PyTorch, Survival Analysis, Tree-based Models  
+**ML/DL:** Scikit-learn, PyTorch, Tree-based Models, Survival Analysis  
 **Deployment:** Docker, Triton Inference Server  
-**Data:** Pandas, NumPy, Feature Engineering, Model Evaluation  
+**Data:** Feature Engineering, Model Evaluation, Cross-validation  
 **Visualization:** Matplotlib, Altair  
 
 ---
 
-## 📈 Research Interests
+## 📚 Research Interests
 
 - Risk Prediction & Survival Modeling
 - Multimodal Learning
-- Model Evaluation & Robustness
-- AI in Healthcare Systems
+- AI Robustness & Evaluation
+- Healthcare AI Systems
 - Industrial AI Infrastructure
 
 ---
